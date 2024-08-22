@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at **Sabaragamuwa University of Sri Lanka**
 
-- 🌱 I’m currently learning **.NET and C#**
+- 🌱 I’m currently learning **Next js**
 
 - 📫 How to reach me **prabodaharshani94@gmail.com**
 
